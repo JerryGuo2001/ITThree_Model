@@ -1,11 +1,11 @@
 step,row,col,action,decision,resource_before,resource_after,v_stay,v_leave,can_scan_here,can_move_neighbors,hidden_local,hidden_global,total_moves,visited_here,overall_label,explorer_label,mine_id,revealed_cat,move_probs,cfg_init_resource,cfg_move_cost,cfg_scan_cost,cfg_gamma,cfg_beta_local,cfg_beta_global,cfg_avoid_base,cfg_no_backtrack
-0,2,1,move,leave,88.0,84.0,-0.2,5.6,False,True,3,15,1,True,rich,None,,,"[0.2222, 0.3333, 0.2222, 0.2222]",88,4,2,0.1,0.6,0.4,True,True
-1,2,0,move,leave,84.0,80.0,1.5999999999999999,4.4,True,True,2,15,2,True,neutral,None,,,"[0.5, 0.5]",88,4,2,0.1,0.6,0.4,True,True
-2,1,0,move,leave,80.0,76.0,1.0,4.8,True,True,2,15,3,True,neutral,None,,,[1.0],88,4,2,0.1,0.6,0.4,True,True
-3,0,0,move,leave,76.0,72.0,1.0,4.8,True,True,0,15,4,True,poor,poor,,,[1.0],88,4,2,0.1,0.6,0.4,True,True
-4,0,1,move,leave,72.0,68.0,-0.2,5.6,False,True,2,15,5,True,rich,None,,,[1.0],88,4,2,0.1,0.6,0.4,True,True
-5,0,2,move,leave,68.0,64.0,1.0,4.8,True,True,2,15,6,True,neutral,None,,,[1.0],88,4,2,0.1,0.6,0.4,True,True
-6,1,2,move,leave,64.0,60.0,1.0,4.8,True,True,2,15,7,True,rich,None,,,[1.0],88,4,2,0.1,0.6,0.4,True,True
-7,2,2,move,leave,60.0,56.0,1.0,4.8,True,True,2,15,8,True,rich,None,,,[1.0],88,4,2,0.1,0.6,0.4,True,True
-8,2,2,scan,scan_here,56.0,54.0,1.0,4.8,True,False,1,14,8,True,rich,None,1.0,poor,,88,4,2,0.1,0.6,0.4,True,True
-9,2,2,halt,no_actions_left,54.0,54.0,0.39999999999999997,4.8,False,False,1,14,8,True,rich,None,,,,88,4,2,0.1,0.6,0.4,True,True
+0,1,0,move,leave,200.0,196.0,-0.2,6.0,False,True,2,16,1,True,rich,None,,,"[0.2222, 0.3333, 0.2222, 0.2222]",200,4,2,0.1,0.6,0.4,True,True
+1,2,0,move,leave,196.0,192.0,1.0,5.2,True,True,2,16,2,True,rich,None,,,"[0.3333, 0.6667]",200,4,2,0.1,0.6,0.4,True,True
+2,2,1,move,leave,192.0,188.0,1.0,5.2,True,True,3,16,3,True,neutral,None,,,[1.0],200,4,2,0.1,0.6,0.4,True,True
+3,2,2,move,leave,188.0,184.0,1.5999999999999999,4.8,True,True,2,16,4,True,rich,None,,,[1.0],200,4,2,0.1,0.6,0.4,True,True
+4,1,2,move,leave,184.0,180.0,1.0,5.2,True,True,2,16,5,True,neutral,None,,,[1.0],200,4,2,0.1,0.6,0.4,True,True
+5,0,2,move,leave,180.0,176.0,1.0,5.2,True,True,2,16,6,True,rich,None,,,[1.0],200,4,2,0.1,0.6,0.4,True,True
+6,0,1,move,leave,176.0,172.0,1.0,5.2,True,True,2,16,7,True,rich,None,,,[1.0],200,4,2,0.1,0.6,0.4,True,True
+7,0,0,move,leave,172.0,168.0,1.0,5.2,True,True,1,16,8,True,neutral,None,,,[1.0],200,4,2,0.1,0.6,0.4,True,True
+8,0,0,scan,scan_here,168.0,166.0,0.39999999999999997,5.6,True,False,0,15,8,True,neutral,neutral,1.0,neutral,,200,4,2,0.1,0.6,0.4,True,True
+9,0,0,halt,no_actions_left,166.0,166.0,-0.2,5.6,False,False,0,15,8,True,neutral,neutral,,,,200,4,2,0.1,0.6,0.4,True,True

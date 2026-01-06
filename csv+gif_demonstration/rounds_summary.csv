@@ -1,0 +1,6 @@
+round,explorer_food_used,forager_food_used,forager_share_before,explorer_steps,explorer_resource_remaining,hidden_mines_left,forager_steps,forager_reward_total,forager_resource_remaining,forager_total_digs,forager_share_after,next_explorer_food,next_forager_food,explorer_csv,forager_csv,explorer_gif,forager_gif
+1,200,200,0.5,10,166.0,10,104,2.0,2.0,3,0.625,150,250,explorer_round1.csv,forager_round1.csv,explore_round1.gif,forage_round1.gif
+2,150,250,0.625,9,118.0,11,126,0.0,2.0,0,0.78125,88,312,explorer_round2.csv,forager_round2.csv,explore_round2.gif,forage_round2.gif
+3,88,312,0.78125,10,54.0,14,166,0.0,0.0,2,0.78125,88,312,explorer_round3.csv,forager_round3.csv,explore_round3.gif,forage_round3.gif
+4,88,312,0.78125,9,56.0,18,158,0.0,0.0,0,0.78125,88,312,explorer_round4.csv,forager_round4.csv,explore_round4.gif,forage_round4.gif
+5,88,312,0.78125,10,54.0,14,165,2.0,0.0,4,0.78125,88,312,explorer_round5.csv,forager_round5.csv,explore_round5.gif,forage_round5.gif
